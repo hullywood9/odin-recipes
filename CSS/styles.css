@@ -1,0 +1,47 @@
+/* styles.css */
+
+body {
+    color:black;
+    background-color: cornflowerblue;
+}
+
+body {
+    text-align: center; 
+    margin: 0; 
+    padding: 0; 
+}
+
+body {
+    text-align: center; 
+    margin: 0; 
+    padding: 0; 
+}
+
+h1 {
+    color: #000000; 
+    font-size: 62px;
+    font-family:fantasy
+}
+
+ul {
+    list-style-type: none; 
+    padding: 0; 
+    color:darkgrey;
+    font-size: 32px;
+    font-family: fantasy;
+}
+
+li {
+    margin-bottom: 5px; 
+}
+
+img {
+    display: block; 
+    margin: 0 auto; 
+}
+
+h1 {
+    text-decoration: underline;
+
+}
+
